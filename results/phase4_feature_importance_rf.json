@@ -1,0 +1,6 @@
+{
+  "nrows": 60000,
+  "n_features": 23,
+  "oob_not_used": true,
+  "validation_accuracy": 0.9995555555555555
+}
