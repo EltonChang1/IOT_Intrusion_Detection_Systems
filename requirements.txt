@@ -1,0 +1,6 @@
+pandas>=2.0,<3
+numpy>=1.24,<3
+scikit-learn>=1.3,<2
+joblib>=1.3,<2
+# Optional: `pip install xgboost` for model xgb (on macOS, `brew install libomp` may be required)
+xgboost>=2.0,<3
